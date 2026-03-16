@@ -1,0 +1,10 @@
+Git(Veriyon Kontrol Sistemi):
+Git, acik kaynaklı ve dagitik bir versiyon kontrol sistemidir. Yazılım projelerinde degisikliklerin izlenmesi ve yönetilmesi icin kullanılır. Linus Torvalds tarafından 2005 yılında Linux çekirdek geliştirme surecini desteklemek amacıyla geliştirilmiştir.
+
+Benzerleri: Sunversion(svn) , mercurial, perforce, bazaar, ifs
+
+Github: Git versiyon kontrol sistemini kullanarak projelerimizi barindirmamiza, yönetmemize ve paylaşmamıza olanak saglayan web tabanlı bir platformdur. 2008 yılında kurulan ve 2018 yılında Microsoft tarafından satin alinan GitHub dunya çapında milyonlarca geliştirici tarafından kullanilmaktadir. 
+
+Benzerleri: Gitlab, BitBucket, SourceForge, Gitea, Gogs gibi.
+
+- Terminal uzerinden klasör oluşturup onun icine git versiyonlama sistemini entegre ettik , versiyonlamak istedigim projeyi ya da dosyayi git ile takip edebilecegim artik.
