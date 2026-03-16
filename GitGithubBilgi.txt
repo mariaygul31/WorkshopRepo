@@ -12,3 +12,6 @@ Benzerleri: Gitlab, BitBucket, SourceForge, Gitea, Gogs gibi.
 
 Visual Studio icin .gitignore dosyası ornegi:
 https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+
+Ornek: Local repository'e ekleme işlemini yap
