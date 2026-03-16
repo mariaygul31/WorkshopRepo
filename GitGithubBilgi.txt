@@ -8,3 +8,7 @@ Github: Git versiyon kontrol sistemini kullanarak projelerimizi barindirmamiza, 
 Benzerleri: Gitlab, BitBucket, SourceForge, Gitea, Gogs gibi.
 
 - Terminal uzerinden klasör oluşturup onun icine git versiyonlama sistemini entegre ettik , versiyonlamak istedigim projeyi ya da dosyayi git ile takip edebilecegim artik.
+
+
+Visual Studio icin .gitignore dosyası ornegi:
+https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
