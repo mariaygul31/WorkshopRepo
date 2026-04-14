@@ -15,3 +15,5 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 
 Ornek: Local repository'e ekleme işlemini yap
+
+-- 14 Nisan : Git-Github çalısmaya devam edildi.
