@@ -18,3 +18,5 @@ Ornek: Local repository'e ekleme işlemini yap
 
 -- 14 Nisan : Git-Github çalısmaya devam edildi. Videolar izlenmeli ve bitmeli.
 -- Siradaki konu Visual Studio Code uzerinden ayni islemleri yapmak.
+
+-- Su an visual studio code uzerinden deneme yapiyoruz.
