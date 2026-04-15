@@ -20,3 +20,5 @@ Ornek: Local repository'e ekleme işlemini yap
 -- Siradaki konu Visual Studio Code uzerinden ayni islemleri yapmak.
 
 -- Su an visual studio code uzerinden deneme yapiyoruz.
+
+-- bugun visual studio code'da calismaya devam ediyorum.
